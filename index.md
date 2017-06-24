@@ -1,5 +1,5 @@
 
-
+<body bgcolor="#E6E6FA">
 
 
 
@@ -12,3 +12,5 @@
 
 
 #### <center>While we are in stealth mode, please contact pr@la-ma.co</center>
+
+</body>
