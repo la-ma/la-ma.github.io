@@ -11,6 +11,6 @@
 
 
 
-<center>While we are in stealth mode, please contact pr@la-ma.co</center>
+<center>... we are in stealth mode... pr@la-ma.co</center>
 
 </body>
