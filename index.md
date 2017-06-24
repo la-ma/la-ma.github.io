@@ -2,7 +2,7 @@
 #
 #
 #
-## <p style="text-align:center;">Welcome to Language Machines Corporation</p>
+## <p style="text-align:center;">Language Machines Corporation</p>
 #
 #
 #
